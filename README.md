@@ -1,6 +1,6 @@
 # Fabrice Lainard
 
-**Ingénieur logiciel freelance · Systèmes critiques, 3D, temps réel, IA agentique**
+**Ingénieur logiciel freelance · Systèmes critiques, 3D, temps réel, IA agentique**  
 La Rochelle, France · FL Programming S.A.S · [flprogramming.fr](https://www.flprogramming.fr/)
 
 Plus de 35 ans d'ingénierie logicielle, de la R&D à la direction technique. Je conçois les logiciels, je les livre et j'en réponds : du cahier des charges à la mise en service et à la maintenance, en projet complet ou en renfort d'équipe.
